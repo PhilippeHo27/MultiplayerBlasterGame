@@ -1,0 +1,46 @@
+# Unreal Engine specific
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+*.opensdf
+*.sdf
+*.suo
+*.xcodeproj
+*.uproject.user
+
+# Build results
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+
+# Shader working directory
+*.usf
+
+# Misc
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Visual Studio cache files
+.vs/
+*.VC.db
+*.opendb
+
+# Node modules
+node_modules/
+
+# Visual Studio code files
+.vscode/
+
+# Specific asset files or folders if needed
+# *.assetextension
+
+
+# Ignore specific project files
+*.bak
+*.tmp
+*.temp
+
+# Visual Studio code files
+.vscode/
