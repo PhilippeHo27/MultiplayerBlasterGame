@@ -4,7 +4,6 @@
 [attr]lfstext filter=lfs diff=lfstext merge=lfstext -text
 
 # Unreal Engine file types
-*.uasset lock
 *.umap lock
 *.locres lfs
 *.locmeta lfs
